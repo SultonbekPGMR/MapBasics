@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "274215128232",
+    "firebase_url": "https://fir-fundamentals-e3710-default-rtdb.firebaseio.com",
+    "project_id": "fir-fundamentals-e3710",
+    "storage_bucket": "fir-fundamentals-e3710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274215128232:android:8132f6c8f3f464d8e4869d",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274215128232-veaqrvmcvhpp7dci03mr2k20tps1kbj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sultonbek1547.firebaselogin",
+            "certificate_hash": "85f6b7c0baee6b372d32976bf8177094f2aafe0f"
+          }
+        },
+        {
+          "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0_xBggO8GOTK9o7_TkBQ0aiCwuec-JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274215128232:android:90f7949ff54f2fede4869d",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.mapbasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0_xBggO8GOTK9o7_TkBQ0aiCwuec-JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274215128232:android:cffcc730c40d8e69e4869d",
+        "android_client_info": {
+          "package_name": "com.sultonbek1547.ringtoneplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0_xBggO8GOTK9o7_TkBQ0aiCwuec-JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274215128232-o0bqeqvsdp4tldstej57l0d0rdrbgc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
